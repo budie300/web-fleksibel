@@ -6,6 +6,15 @@
 .warna{
     background-color:#FFA500;
 }
+.carousel{
+    box-shadow: 0 0 20px;
+}
+.card{
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0 0 10px;
+}
 
 input[type='text'],
 input[type="email"]{
